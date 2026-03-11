@@ -1,28 +1,27 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=200&section=header&text=Hi,+I'm+Mohamed+Selim+🚀&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=200&section=header&text=Hi,+I'm+Mohamed+Selim+&fontSize=40&fontColor=fff&animation=twinkling" />
 </div>
 
-## 👨‍💻 About Me
-- 🎓 **Senior MIS Student** at the Higher Institute for Computers, Tanta.
-- 🚀 **Vibe Coding Engineer** specializing in rapid AI-driven execution.
-- 🛠️ Focused on **Front-End Development** (React, Next.js, Tailwind CSS).
-- 🏆 Certified by **ITI** in Cybersecurity, Software Testing, and AI.
-- 🏋️‍♂️ Bodybuilding enthusiast following the **PPL Split**.
+##  About Me
+-  **Senior MIS Student** at the Higher Institute for Computers, Tanta.
+-  Focused on **Front-End Development** (React, Next.js, Tailwind CSS).
+-  Certified by **ITI** in Cybersecurity, Software Testing, and AI.
+-  Bodybuilding enthusiast following the **PPL Split**.
 
 ---
 
-### ⚡ Professional Summary
-* 🎓 **Education**: Bachelor of Management Information Systems (MIS).
-* 🏆 **Training**: Intensive training at **ITI** (Information Technology Institute).
-* 💻 **Expertise**: Full-stack development with a focus on creating scalable healthcare solutions (like **CareSync**).
-* 🤖 **Workflow**: Leveraging AI and "Vibe Coding" for rapid, high-quality production.
+###  Professional Summary
+*  **Education**: Bachelor of Management Information Systems (MIS).
+*  **Training**: Intensive training at **ITI** (Information Technology Institute).
+*  **Expertise**: Full-stack development with a focus on creating scalable healthcare solutions (like **CareSync**).
+*  **Workflow**: Leveraging AI and "Vibe Coding" for rapid, high-quality production.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
-### 💻 Frontend & Styling
+###  Frontend & Styling
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -33,14 +32,14 @@
 
 ---
 
-## 🚀 Projects I'm Building
+##  Projects I'm Building
 - **AbSliGo**: A comprehensive travel and tourism ecosystem.
 - **Pill Pal AI**: AI-driven medication management platform.
 - **Sana'i (صنايعي)**: Connecting craftsmen with service seekers.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selim-hm&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selim-hm&theme=tokyonight" alt="GitHub Streak" />
@@ -48,7 +47,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 <p align="left">
   <a href="mailto:mohamedmaher55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
